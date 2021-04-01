@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/65915193/112793462-f5b15d80-902a-11eb-874b-decbbb800f6d.png)
 
-Project TetraNet is a novel research project used for wildfire mitigation using footage from rapid nanosatellite deployment into space. It utilizes computer vision models, image segmentation U-Net convolutional networks, linear regression artifical neural networks, and mathematical fire spread simulators in order to accurately apply wildfire patterns to a real-world setting, allowing researchers to prevent wildfires from spreading in high-risk regions.
+Project TetraNet is a novel research project used for wildfire mitigation using footage from rapid nanosatellite deployment into space. We created a nanosatellite that utilizes computer vision models, image segmentation U-Net convolutional networks, linear regression artifical neural networks, and mathematical fire spread simulators in order to accurately apply wildfire patterns to a real-world setting, allowing researchers to prevent wildfires from spreading in high-risk regions.
 
 # Image Segmentation Analysis
 
@@ -16,7 +16,7 @@ Afterward, we trained the image segmentation U-Net convolution networks using si
 
 # Predicting Burned Area using Wind-level prediction
 
-[Using the forest fires dataset] (http://archive.ics.uci.edu/ml/datasets/Forest+Fires) from the UC Irvine Machine Learning Repository, we created a linear regression artificial neural network trained on this [ForestFires.csv] (http://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/forestfires.csv), which illustrates the hectares of area burned in a forest fire using input values like temperature, relative humidity, wind, and rain as well as the FFMC, DMC, DC, and ISI indexes.
+[Using the forest fires dataset](http://archive.ics.uci.edu/ml/datasets/Forest+Fires) from the UC Irvine Machine Learning Repository, we created a linear regression artificial neural network trained on this [ForestFires.csv](http://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/forestfires.csv), which illustrates the hectares of area burned in a forest fire using input values like temperature, relative humidity, wind, and rain as well as the FFMC, DMC, DC, and ISI indexes.
 
 
 ## Installation
