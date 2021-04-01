@@ -1,4 +1,4 @@
-# Project TetraNet
+# Project TetraNet Overview
 
 ![image](https://user-images.githubusercontent.com/65915193/112793462-f5b15d80-902a-11eb-874b-decbbb800f6d.png)
 
@@ -8,11 +8,11 @@ Project TetraNet is a novel research project used for wildfire mitigation using 
 
 ![image](https://user-images.githubusercontent.com/65915193/113232996-d9e4cc00-9263-11eb-9a9b-24c5d19d305e.png)
 
-The above image was annotated using Apeer to produce the image below. All of our images were obtained through our original footage from our launch to space in 2021 and then annotated similarly using Apeer. Afterward, we trained the image segmentation U-Net convolution networks using the annotated images. 
+The above image was annotated using Apeer to produce the image below. All of our images were obtained through our original footage from our launch to space in 2021 and then annotated similarly using Apeer. 
 
 ![image](https://user-images.githubusercontent.com/65915193/113232418-b40af780-9262-11eb-926d-491324db32b6.png)
 
-After the image segmentation U-Net convolutional network was applied, it produced the image below.
+Afterward, we trained the image segmentation U-Net convolution networks using similar annotated images. After applying our trained U-Net, it produced the image below.
 
 # Predicting Burned Area using Wind-level prediction
 
