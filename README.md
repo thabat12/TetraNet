@@ -38,13 +38,13 @@ Using the [forest fires data set](http://archive.ics.uci.edu/ml/datasets/Forest+
 
 ## Web Application
 
-We utilized the Python Flask back-end framework to make API calls to Azure's machine learning and cloud services, providing an efficient method of conducting compter vision analysis.
+We utilized the Python Flask back-end framework to make API calls to Azure's machine learning and cloud services, providing an efficient method of conducting computer vision analysis.
 
 ## Utilizing Azure Machine Learning and Cloud Services 
 
 ## Practical Applications
 
-Our project is a low-cost alternative to traditional satellites deployed into space that track geographical features and trends. Our satellite can return footage back to Earth to conduct computer vision analysis on certain terrain to analyze its susceptability to wildfires, especially during the warm summer seasons. With the trending  temperature increase in global warming, our nanosatellite can provide substantial impact by providing real-time alerts to fire departments and local public safety services to not only mitigate wildfires and save lives but also prevent severe smoke inhalation and save millions of dollars in damage caused by wildfires annually.
+Our project is a low-cost alternative to traditional satellites deployed into space that track geographical features and trends. Our satellite can return footage back to Earth to conduct computer vision analysis on certain terrain to analyze its susceptability to wildfires, especially during the threatening summer season, especially in regions like Texas. With the trending temperature increase in global warming, our nanosatellite can provide substantial impact by providing real-time alerts to fire departments and local public safety services to not only mitigate wildfires and save lives but also prevent severe smoke inhalation and save millions of dollars in damage caused by wildfires annually.
 
 ## Contributors
 
