@@ -4,7 +4,7 @@
 
 Project TetraNet is a novel research project used for wildfire mitigation and wind-level prediction using footage from rapid nanosatellite deployment into space. It utilizes computer vision models, image segmentation U-Net convolutional networks, linear regression artifical neural networks, and mathematical fire spread simulators in order to accurately apply wildfire patterns to a real-world setting, allowing researchers to prevent wildfires from spreading in high-risk regions.
 
-#Video Analysis
+# Video Analysis
 
 ![image](https://user-images.githubusercontent.com/65915193/113232996-d9e4cc00-9263-11eb-9a9b-24c5d19d305e.png)
 
