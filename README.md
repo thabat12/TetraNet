@@ -34,7 +34,7 @@ Using the [forest fires data set](http://archive.ics.uci.edu/ml/datasets/Forest+
 
 ## Web Application
 
-![image](https://user-images.githubusercontent.com/65915193/113237381-55e31200-926c-11eb-8241-45bf1b4118cb.png)
+![image](https://assets.website-files.com/5f45dcafd2144b042ed84cfd/5f45fb0d93892157cded1b01_4168ff14fa8d3045737dbf347ddd91cfcf354931.gif)
 
 
 ## Utilizing Azure Machine Learning and Cloud Services 
