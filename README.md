@@ -31,8 +31,10 @@ Using the [forest fires data set](http://archive.ics.uci.edu/ml/datasets/Forest+
 
 ![image](https://user-images.githubusercontent.com/65915193/113236263-29c69180-926a-11eb-9d14-76c16691f2c6.png)
 
- ## Piplines to Azure ML Services
- 
+## Piplines to Azure ML Services
+
+![Blank diagram](https://user-images.githubusercontent.com/34663815/113460766-6ec00480-93df-11eb-9815-779d4b1b1863.png)
+
 ## Fire Spread Simulation
 
 ![image](https://assets.website-files.com/5f45dcafd2144b042ed84cfd/5f45fb0d93892157cded1b01_4168ff14fa8d3045737dbf347ddd91cfcf354931.gif)
