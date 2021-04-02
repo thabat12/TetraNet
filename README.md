@@ -48,5 +48,7 @@ We utilized the Python Flask back-end framework to make API calls to Azure's mac
 Our project is a low-cost alternative to traditional satellites deployed into space that track geographical features and trends. Our satellite can return footage back to Earth to conduct computer vision analysis on certain terrain to analyze its susceptability to wildfires, especially during the threatening summer season. With the trending temperature increase as a result of global warming, our nanosatellite can provide substantial impact by possibly providing real-time alerts to fire departments and public safety services across the world to not only mitigate wildfires and save lives but also prevent severe smoke inhalation and save millions of dollars in damage caused by wildfires annually.
 
 ## Contributors
+![image](https://user-images.githubusercontent.com/65791148/113460041-fb1cf800-93dc-11eb-8805-9bb0afe767d5.png)
+
 
 Project TetraNet was created by Abhinav Bichal, Sarvesh Sathish, and Pranay Shah for the 2021 Microsoft Azure AI competition.
