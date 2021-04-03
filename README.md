@@ -16,13 +16,23 @@ We engineered a nanosatellite to deploy into the Earth's atmosphere from scratch
 
 Our TetraNet nanosatellite conducts advanced image segmentation analysis to determine the terrain and topology of the land through scanning for dense vegetation on the ground. The images below provide insight into how we created the image segmentation U-Net convolutional neural network.
 
-![image](https://user-images.githubusercontent.com/65915193/113232996-d9e4cc00-9263-11eb-9a9b-24c5d19d305e.png)
+![image](https://user-images.githubusercontent.com/65915193/113466073-83f85b80-93fe-11eb-8fd1-9d46f0f20d39.png)
 
 The above image was annotated using Apeer to produce the image below. All of our images were obtained through our original footage from our launch to space in 2021 and then annotated similarly using Apeer. 
 
-![image](https://user-images.githubusercontent.com/65915193/113232418-b40af780-9262-11eb-926d-491324db32b6.png)
+![image](https://user-images.githubusercontent.com/65915193/113466438-77c1cd80-9401-11eb-9829-9e0ac69d88ab.png)
 
-Afterward, we trained the image segmentation U-Net convolution networks using our annotated images converted to the .tiff format. After applying our trained U-Net to the above image, it produced the image below, showing how our image segmentation model was highly accurate. 
+Afterward, we converted our annotated Apeer image to the "mask" that we could use to train the image segmentation U-Net convolutional network.
+
+![image](https://user-images.githubusercontent.com/65915193/113466307-62986f00-9400-11eb-9ea6-c8c17a10446e.png)
+
+After applying our trained U-Net to the above image, it produced the "predicted mask" below, showing how our image segmentation model was highly accurate in detecting dense vegetation. 
+
+![image](https://user-images.githubusercontent.com/65915193/113466312-6b894080-9400-11eb-905d-58190ceb45be.png)
+
+Lastly, we overlayed the "predicted mask" images on the original images to further prove how accurate the model was.
+
+
 
 
 ## Predicting Burned Area using Artifical Neural Network
