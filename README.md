@@ -43,6 +43,8 @@ Using the [forest fires data set](http://archive.ics.uci.edu/ml/datasets/Forest+
 
 ## Architecture Diagram
 
+![image](https://user-images.githubusercontent.com/65915193/113467049-105a4c80-9406-11eb-9117-959b1300796e.png)
+
 ![image](https://user-images.githubusercontent.com/65915193/113466753-ce300b80-9403-11eb-95f3-774be12129f1.png)
 
 ![image](https://user-images.githubusercontent.com/65915193/113466758-d4be8300-9403-11eb-80f4-87d64cfdbc1c.png)
