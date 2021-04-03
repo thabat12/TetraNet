@@ -33,7 +33,7 @@ After applying our trained U-Net to the above image, it produced the "predicted 
 
 Lastly, we overlayed the "predicted mask" images on the original images to further prove how accurate the model was.
 
-![image](https://user-images.githubusercontent.com/65915193/113466824-4696cc80-9404-11eb-92e9-0528f5dac718.png)
+![image](https://user-images.githubusercontent.com/65915193/113468382-6e3d6300-940b-11eb-80fe-ba8348da4def.png)
 
 ## Predicting Burned Area using Artifical Neural Network
 
@@ -44,10 +44,6 @@ Using the [forest fires data set](http://archive.ics.uci.edu/ml/datasets/Forest+
 ## Architecture Diagram
 
 ![image](https://user-images.githubusercontent.com/65915193/113467049-105a4c80-9406-11eb-9117-959b1300796e.png)
-
-![image](https://user-images.githubusercontent.com/65915193/113466753-ce300b80-9403-11eb-95f3-774be12129f1.png)
-
-![image](https://user-images.githubusercontent.com/65915193/113466758-d4be8300-9403-11eb-80f4-87d64cfdbc1c.png)
 
 ## Fire Spread Simulation
 
