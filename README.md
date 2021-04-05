@@ -1,20 +1,22 @@
-# Project TetraNet
+**Project TetraNet**
+-
 ![image](https://user-images.githubusercontent.com/65915193/113542926-eee69580-95aa-11eb-9709-29cc428062f8.png)
+Project TetraNet is a novel research project used for wildfire mitigation using footage from rapid nanosatellite deployed into space. We created a nanosatellite that utilizes computer vision models, image segmentation U-Net convolutional networks, linear regression artifical neural networks, and heuristic fire spread simulators in order to accurately apply wildfire patterns to a real-world setting. The idea is to allow anyone to access quality terrain analysis for a fraction of the cost. 
 
-Project TetraNet is a novel research project used for wildfire mitigation using footage from rapid nanosatellite deployed into space. We created a nanosatellite that utilizes computer vision models, image segmentation U-Net convolutional networks, linear regression artifical neural networks, and heuristic fire spread simulators in order to accurately apply wildfire patterns to a real-world setting, allowing researchers to prevent wildfires from spreading in high-risk regions.
 
-## Practical Applications
+Practical Applications
+-
+Our project is a low-cost alternative to traditional satellites deployed into space that track geographical features and trends. Current methods of mitigation are often expensive and inaccessible for general public use, with data decentralized and hard to orchestrate for wildfire responses. TetraNet explores the viability of an open-source application with a device that anyone can use. The goal with TetraNet is to provide means for both monitoring ongoing wildfires as well as predicitng future ones with preventative measures.
 
-Our project is a low-cost alternative to traditional satellites deployed into space that track geographical features and trends. Our satellite can return footage back to Earth to conduct computer vision analysis on certain terrain to analyze its susceptability to wildfires, especially during the threatening summer season. The goal with TetraNet is to provide means for both monitoring ongoing wildfires as well as predicitng future ones with preventative measures. 
 
-***Wildfire tracking and detection mapping***
+*Dense vegetation tracking via semantic segmentation*
+<p align = "center">
+<img src="https://s4.ezgif.com/save/ezgif-4-58b5792d197e.gif"/>
+</p>
+
+*Heat mapping for wildfire tracking*
+
 ![image](https://user-images.githubusercontent.com/65791148/113547014-c06cb880-95b2-11eb-91c7-9d91d07c00c5.png)
-
-***Dense vegetation tracking via semantic segmentation***
-![image](https://user-images.githubusercontent.com/65791148/113547466-97005c80-95b3-11eb-8818-d5d276041daf.png)
-
-
-
 
 ## Nanosatellite Engineering
 
