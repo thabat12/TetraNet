@@ -1,5 +1,5 @@
 # Project TetraNet
-![image](https://user-images.githubusercontent.com/65915193/113542389-c8742a80-95a9-11eb-8bf0-adda7dfafc82.png)
+![image](https://user-images.githubusercontent.com/65915193/113542507-0f622000-95aa-11eb-8893-45db30d82f4f.png)
 
 Project TetraNet is a novel research project used for wildfire mitigation using footage from rapid nanosatellite deployed into space. We created a nanosatellite that utilizes computer vision models, image segmentation U-Net convolutional networks, linear regression artifical neural networks, and mathematical fire spread simulators in order to accurately apply wildfire patterns to a real-world setting, allowing researchers to prevent wildfires from spreading in high-risk regions.
 
@@ -12,7 +12,7 @@ Our project is a low-cost alternative to traditional satellites deployed into sp
 ![image](https://user-images.githubusercontent.com/65915193/113235068-11557780-9268-11eb-88a5-1da251bd10b5.png)
 ![image](https://user-images.githubusercontent.com/65915193/113235206-482b8d80-9268-11eb-9f64-8d097736f1ef.png)
 
-<img src="https://user-images.githubusercontent.com/65915193/113466894-e5bbc400-9404-11eb-81d6-a066f42b0cdb.png" width="400">
+![image](https://user-images.githubusercontent.com/65915193/113235206-482b8d80-9268-11eb-9f64-8d097736f1ef.png)
 
 We engineered a nanosatellite to deploy into the Earth's atmosphere from scratch.
 
