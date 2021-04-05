@@ -32,7 +32,7 @@ After applying our trained U-Net to the above image, it produced the "predicted 
 
 Lastly, we overlayed the "predicted mask" images on the original images by utilizing OpenCV to further prove how accurate the model was.
 
-<img src="https://user-images.githubusercontent.com/65915193/113470107-8bc4f980-9418-11eb-92be-ccad9027ff4b.png" width="800">
+<img src="https://user-images.githubusercontent.com/65915193/113470107-8bc4f980-9418-11eb-92be-ccad9027ff4b.png" width="850">
 
 ## Predicting Burned Area using Artifical Neural Network
 
