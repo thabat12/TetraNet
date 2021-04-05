@@ -46,7 +46,7 @@ Using the [forest fires data set](http://archive.ics.uci.edu/ml/datasets/Forest+
 
 ## Fire Spread Simulation
 
-![image](https://assets.website-files.com/5f45dcafd2144b042ed84cfd/5f45fb0ddb2e8ed9d9f3b976_7e44396cc5f3f0e8d3fdceb51be326fc4b25110e.gif)
+![image](https://cdn.discordapp.com/attachments/465657359482617856/828480371246366720/video.gif)
 
 We utilized a mathematical model to depict how fire spreading works while wind is blowing. The results of the code can be seen here.  
 
