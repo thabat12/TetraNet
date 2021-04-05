@@ -9,7 +9,7 @@ Project TetraNet is a novel research project used for wildfire mitigation using 
 ![image](https://user-images.githubusercontent.com/65915193/113235206-482b8d80-9268-11eb-9f64-8d097736f1ef.png)
 
 <img src="https://user-images.githubusercontent.com/65915193/113466894-e5bbc400-9404-11eb-81d6-a066f42b0cdb.png" width="500">
-![image](https://user-images.githubusercontent.com/65915193/113466894-e5bbc400-9404-11eb-81d6-a066f42b0cdb.png)
+<img src="https://user-images.githubusercontent.com/65915193/113532977-547a5800-9592-11eb-8aa7-a2f37e05831f.png" width="500">
 
 We engineered a nanosatellite to deploy into the Earth's atmosphere from scratch. More information can be found [here]().
 
