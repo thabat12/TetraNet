@@ -42,7 +42,7 @@ Using the [forest fires data set](http://archive.ics.uci.edu/ml/datasets/Forest+
 
 ## Architecture Diagram
 
-![image](https://user-images.githubusercontent.com/65915193/113467049-105a4c80-9406-11eb-9117-959b1300796e.png)
+![image](https://user-images.githubusercontent.com/65915193/113534662-0025a700-9597-11eb-8f9d-ff7bdcc761b1.png)
 
 ## Fire Spread Simulation
 
