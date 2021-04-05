@@ -32,11 +32,11 @@ After applying our trained U-Net to the above image, it produced the "predicted 
 
 Lastly, we overlayed the "predicted mask" images on the original images by utilizing OpenCV to further prove how accurate the model was.
 
-![image](https://user-images.githubusercontent.com/65915193/113470107-8bc4f980-9418-11eb-92be-ccad9027ff4b.png)
+<img src="https://user-images.githubusercontent.com/65915193/113470107-8bc4f980-9418-11eb-92be-ccad9027ff4b.png" width="800">
 
 ## Predicting Burned Area using Artifical Neural Network
 
-Using the [forest fires data set](http://archive.ics.uci.edu/ml/datasets/Forest+Fires) from the UC Irvine Machine Learning Repository, we created a linear regression artificial neural network trained on this [ForestFires.csv](http://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/forestfires.csv), which illustrates the hectares of area burned in a forest fire based on input values like temperature, relative humidity, wind, and rain as well as the FFMC, DMC, DC, and ISI indexes.
+Using the [forest fires data set](http://archive.ics.uci.edu/ml/datasets/Forest+Fires) from the UC Irvine Machine Learning Repository, we utilized the Azure Machine Learning services to automate the creation of neural network for predicting the number of hectares burned in a forest fire based on input values like temperature, relative humidity, wind, and rain as well as the FFMC, DMC, DC, and ISI indexes.
 
 ![image](https://user-images.githubusercontent.com/65915193/113236263-29c69180-926a-11eb-9d14-76c16691f2c6.png)
 
@@ -52,9 +52,8 @@ We utilized a mathematical model to depict how fire spreading works while wind i
 
 ## Web Application
 
-We utilized the Python Flask back-end framework to make API calls to Azure's machine learning and cloud services, providing an efficient method of conducting analysis on the footage.
-
-## Utilizing Azure Machine Learning and Cloud Services 
+We created an extensive front-end and back-end application to display the data like Google Maps location video, and fire simulation, utilizing the Google Maps API.
+Furthermore, we utilized the Python Flask back-end framework to make API calls to Azure's machine learning and cloud services, providing an efficient method of conducting analysis on the footage.
 
 ## Practical Applications & Future Implications
 
