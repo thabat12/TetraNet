@@ -57,11 +57,22 @@ We utilized a mathematical model to depict how fire spreading works while wind i
 ## Web Application
 
 We created an extensive front-end and back-end application to display the data like Google Maps location video, and fire simulation, utilizing the Google Maps API.
-Furthermore, we utilized the Python Flask back-end framework to make API calls to Azure's machine learning and cloud services, providing an efficient method of conducting analysis on the footage.
+Furthermore, we utilized the Python Flask back-end framework to make API calls to Azure's machine learning and cloud services. The following is the core logic for 
+retrieving the UNet segmentation masks:
+
+```
+# An example URL for accessing the web service
+azure_aci_url = 'http://67534526-f00a-ds33-a447-22a76351d991.eastus.azurecontainer.io/score' 
+
+files = {'image' : open(image_directory, 'rb').read()
+response = requests.post(azure_aci_url, files=files)
+
+mask_data = response.json()
+```
 
 ## Future Implications
 
-With the trending temperature increase as a result of global warming, our nanosatellite can provide substantial impact by possibly providing real-time alerts to fire departments and public safety services across the world to not only mitigate wildfires and save lives but also prevent severe smoke inhalation and save millions of dollars in damage caused by wildfires annually.
+With the trending temperature increase as a result of global warming, our nanosatellite can provide substantial impact by possibly providing real-time alerts to fire departments and public safety services across the world to not only mitigate wildfires and save lives but also prevent severe smoke inhalation and save millions of dollars in damage caused by wildfires annually. With Azure's ACI services, our UNet model predictions were able to be processed with relative simplicity.
 
 ## Contributors
 
