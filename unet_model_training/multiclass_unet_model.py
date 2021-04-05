@@ -354,8 +354,8 @@ new_img = Image.fromarray(np.array(json.loads(single_result), dtype= 'uint8'))
 plt.imshow(new_img)
 
 # there are 3 classes, and it did classifications on all 3 of them per pixel
-pptime = tf.argmax(result[7], axis= -1)
-plt.imshow(pptime)
+modelxyz123 = tf.argmax(result[7], axis= -1)
+plt.imshow(modelxyz123)
 
 import random
 
