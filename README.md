@@ -5,7 +5,16 @@ Project TetraNet is a novel research project used for wildfire mitigation using 
 
 ## Practical Applications
 
-Our project is a low-cost alternative to traditional satellites deployed into space that track geographical features and trends. Our satellite can return footage back to Earth to conduct computer vision analysis on certain terrain to analyze its susceptability to wildfires, especially during the threatening summer season. 
+Our project is a low-cost alternative to traditional satellites deployed into space that track geographical features and trends. Our satellite can return footage back to Earth to conduct computer vision analysis on certain terrain to analyze its susceptability to wildfires, especially during the threatening summer season. The goal with TetraNet is to provide means for both monitoring ongoing wildfires as well as predicitng future ones with preventative measures. 
+
+***Wildfire tracking and detection mapping***
+![image](https://user-images.githubusercontent.com/65791148/113547014-c06cb880-95b2-11eb-91c7-9d91d07c00c5.png)
+
+***Dense vegetation tracking via semantic segmentation***
+![image](https://user-images.githubusercontent.com/65791148/113547466-97005c80-95b3-11eb-8818-d5d276041daf.png)
+
+
+
 
 ## Nanosatellite Engineering
 
