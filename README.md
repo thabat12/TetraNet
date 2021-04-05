@@ -1,5 +1,5 @@
 # Project TetraNet
-![image](https://user-images.githubusercontent.com/65915193/113542507-0f622000-95aa-11eb-8893-45db30d82f4f.png)
+![image](https://user-images.githubusercontent.com/65915193/113542926-eee69580-95aa-11eb-9709-29cc428062f8.png)
 
 Project TetraNet is a novel research project used for wildfire mitigation using footage from rapid nanosatellite deployed into space. We created a nanosatellite that utilizes computer vision models, image segmentation U-Net convolutional networks, linear regression artifical neural networks, and heuristic fire spread simulators in order to accurately apply wildfire patterns to a real-world setting, allowing researchers to prevent wildfires from spreading in high-risk regions.
 
@@ -44,21 +44,17 @@ Using the [forest fires data set](http://archive.ics.uci.edu/ml/datasets/Forest+
 
 ![image](https://user-images.githubusercontent.com/65915193/113236263-29c69180-926a-11eb-9d14-76c16691f2c6.png)
 
-## Architecture Diagram
-
-![image](https://user-images.githubusercontent.com/65915193/113540522-edff3500-95a5-11eb-9b28-93b08da6b89f.png)
-
 ## Fire Spread Simulation
 
 ![image](https://cdn.discordapp.com/attachments/465657359482617856/828480371246366720/video.gif)
 
-We utilized a mathematical model to depict how fire spreading works while wind is blowing. The results of the code can be seen here.  
+We utilized a mathematical model utilizing a heuristic to depict how fire spreading works while wind is blowing. The results of the code can be seen through this GIF.  
 
 ## Web Application
 
 We created an extensive front-end and back-end application to display the data like Google Maps location video, and fire simulation, utilizing the Google Maps API.
 Furthermore, we utilized the Python Flask back-end framework to make API calls to Azure's machine learning and cloud services. The following is the core logic for 
-retrieving the UNet segmentation masks:
+retrieving the U-Net segmentation masks:
 
 ```
 # An example URL for accessing the web service
@@ -70,9 +66,13 @@ response = requests.post(azure_aci_url, files=files)
 mask_data = response.json()
 ```
 
+## Project Architecture
+
+![image](https://user-images.githubusercontent.com/65915193/113540522-edff3500-95a5-11eb-9b28-93b08da6b89f.png)
+
 ## Future Implications
 
-With the trending temperature increase as a result of global warming, our nanosatellite can provide substantial impact by possibly providing real-time alerts to fire departments and public safety services across the world to not only mitigate wildfires and save lives but also prevent severe smoke inhalation and save millions of dollars in damage caused by wildfires annually. With Azure's ACI services, our UNet model predictions were able to be processed with relative simplicity.
+With the trending temperature increase as a result of global warming, our nanosatellite can provide substantial impact by possibly providing real-time alerts to fire departments and public safety services across the world to not only mitigate wildfires and save lives but also prevent severe smoke inhalation and save millions of dollars in damage caused by wildfires annually. With Azure's ACI services, our U-Net model predictions were able to be processed with relative simplicity.
 
 ## Contributors
 
