@@ -3,6 +3,10 @@
 
 Project TetraNet is a novel research project used for wildfire mitigation using footage from rapid nanosatellite deployed into space. We created a nanosatellite that utilizes computer vision models, image segmentation U-Net convolutional networks, linear regression artifical neural networks, and mathematical fire spread simulators in order to accurately apply wildfire patterns to a real-world setting, allowing researchers to prevent wildfires from spreading in high-risk regions.
 
+## Practical Applications
+
+Our project is a low-cost alternative to traditional satellites deployed into space that track geographical features and trends. Our satellite can return footage back to Earth to conduct computer vision analysis on certain terrain to analyze its susceptability to wildfires, especially during the threatening summer season. 
+
 ## Nanosatellite Engineering
 
 ![image](https://user-images.githubusercontent.com/65915193/113235068-11557780-9268-11eb-88a5-1da251bd10b5.png)
@@ -55,9 +59,9 @@ We utilized a mathematical model to depict how fire spreading works while wind i
 We created an extensive front-end and back-end application to display the data like Google Maps location video, and fire simulation, utilizing the Google Maps API.
 Furthermore, we utilized the Python Flask back-end framework to make API calls to Azure's machine learning and cloud services, providing an efficient method of conducting analysis on the footage.
 
-## Practical Applications & Future Implications
+## Future Implications
 
-Our project is a low-cost alternative to traditional satellites deployed into space that track geographical features and trends. Our satellite can return footage back to Earth to conduct computer vision analysis on certain terrain to analyze its susceptability to wildfires, especially during the threatening summer season. With the trending temperature increase as a result of global warming, our nanosatellite can provide substantial impact by possibly providing real-time alerts to fire departments and public safety services across the world to not only mitigate wildfires and save lives but also prevent severe smoke inhalation and save millions of dollars in damage caused by wildfires annually.
+With the trending temperature increase as a result of global warming, our nanosatellite can provide substantial impact by possibly providing real-time alerts to fire departments and public safety services across the world to not only mitigate wildfires and save lives but also prevent severe smoke inhalation and save millions of dollars in damage caused by wildfires annually.
 
 ## Contributors
 
