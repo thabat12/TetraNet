@@ -87,4 +87,4 @@ With the trending temperature increase as a result of global warming, our nanosa
 
 ## Contributors
 
-Project TetraNet was created by Abhinav Bichal, Sarvesh Sathish, and Pranay Shah for the 2021 Microsoft Azure AI competition.
+Project TetraNet was created by Abhinav Bichal, Sarvesh Sathish, and Pranay Shah for the 2021 Microsoft Azure AI competition. 
