@@ -25,7 +25,7 @@ Our project is a low-cost alternative to traditional satellites deployed into sp
 
 ![image](https://user-images.githubusercontent.com/65915193/113542748-88617780-95aa-11eb-8952-399483f8c06a.png)
 
-We engineered a nanosatellite to deploy into the Earth's atmosphere from scratch.
+We engineered a device to deploy into the Earth's atmosphere.
 
 ## Image Segmentation Analysis using U-Net Convolutional Neural Network
 
