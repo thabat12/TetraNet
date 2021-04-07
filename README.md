@@ -76,6 +76,10 @@ response = requests.post(azure_aci_url, files=files)
 
 mask_data = response.json()
 ```
+UI Demonstration 
+
+https://user-images.githubusercontent.com/65791148/113903912-18fcab00-9797-11eb-867e-6a5544e8c1b8.mp4
+
 
 ## Project Architecture
 
